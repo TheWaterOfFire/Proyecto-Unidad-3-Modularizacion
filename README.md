@@ -1,7 +1,7 @@
 # Sistema de ventas e inventario
 
 Proyecto de consola en **ensamblador MASM x86 de 32 bits**, con la biblioteca **Irvine32**.
-Alumno: Roman Llanes Oliver Uriel
+Alumno: Roman Llanes Oliver Uriel.
 Horario: 10:00 A.M. a 11:00 A.M.
 
 ## Cambios de la Unidad 3
