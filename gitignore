@@ -1,0 +1,44 @@
+# Datos locales generados por el programa
+/inventario.txt
+
+# Archivos generados por MASM / ML y el enlazador
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.idb
+*.pch
+*.lst
+*.map
+*.cod
+
+# Archivos temporales y de registro
+*.tmp
+*.temp
+*.log
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+ipch/
+Debug/
+Release/
+Win32/
+x64/
+
+# Windows y macOS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
